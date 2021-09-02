@@ -1,6 +1,6 @@
 # xFuzz
 
-<img src="./logo.png"  height="300" width="305">
+<img src="https://www.imageoss.com/images/2021/09/02/logo921a77fb5a4ded3f.png"  height="300" width="305">
 
 Cross-contract vulnerabilities are vulnerabilities where more than two contracts are involved by external calls. Cross-contract call itself is generally not vulnerable. However, it is prone to being leveraged by existing vulnerabilities and deceive current vulnerability detection technologies. For example, a cross-contract vulnerability is missed by existing detection tools is shown in the following code.
 
