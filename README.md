@@ -35,7 +35,7 @@ Cross-contract vulnerabilities are vulnerabilities where more than two contracts
 
 The code at **line 6** directs to an external contract *TokenSale* and invokes an uncontroled external call at **line 19**, which can be leveraged to form a cross-contract vulnerability.
 
-These vulnerabilities are firstly reported by [Clairvoyance](https://ieeexplore.ieee.org/document/9270398). However, this tool only supports detecting cross-contract reentrancy vulnerabilities. Considering other overlooked cross-conract threats by compounding cross-contract calls with existing vulnerabilities, we extend their work by supporting three most dangerous cross-contract vulnerabilities.
+These vulnerabilities are firstly reported by [Clairvoyance](https://ieeexplore.ieee.org/document/9286095). However, this tool only supports detecting cross-contract reentrancy vulnerabilities. Considering other overlooked cross-conract threats by compounding cross-contract calls with existing vulnerabilities, we extend their work by supporting three most dangerous cross-contract vulnerabilities.
 
 We present **xFuzz**, a machine learning guided cross-contract fuzzing framework.
 
