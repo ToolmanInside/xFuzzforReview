@@ -47,6 +47,6 @@ We train a machine leaning model to provide suggestions on deciding a function i
 
 In this website, we will keep updating suppliment materials.
 
-[test](./test.md)
-
-[Dataset Open](./dataset/dataset-doc.md)
+* [Dataset Open](./dataset/dataset-doc.md)
+* [Exploits](./exploits/README.md)
+* [Training Model](./training/training.md)
